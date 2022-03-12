@@ -1,0 +1,68 @@
+.html{
+    background: rgba(142, 172, 163, 0.692);
+    margin: 30px;
+}
+
+.body{
+    padding: 10px 3px 2px 0;
+}
+
+.art{
+    border: 3px solid black;
+    padding: 5px;
+    background: white;
+    margin: auto;
+}
+
+#title{
+    font-size: 50pt;
+    font-style:oblique;
+    margin: 20px;
+}
+
+.p{
+    border: 3px solid black;
+    margin: 10px;
+}
+
+.link{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 5px;
+}
+
+.txt{
+    font-size: 15pt;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    text-align: justify;
+ }
+
+ .sobre{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20pt;
+    margin-left: 40%;
+}
+
+.photo{
+    border: 2px solid;
+    border-radius: 10%;
+    margin-left: 40%;
+}
+
+.list{
+    border: 3px solid black;
+    background-color: aliceblue;
+    list-style-type: circle;
+}
+
+.email{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.git{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
