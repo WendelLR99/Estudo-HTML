@@ -1,0 +1,52 @@
+.navbar{
+    background-color: rgb(29, 137, 158);
+    border: 10px solid #104b57;
+}
+.nav-item{
+font-size: 15pt;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: italic;
+}
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 0;
+    padding-right: 0;
+}
+.nav-link{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 10px;
+}
+.container-fluid{
+    background-color: rgb(190, 211, 214);
+}
+.text-center{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    padding-top: 25px;
+}
+.rounded-circle{
+    border: #0d323a solid 5px;
+}
+.cursos{
+    padding: 25px 0px;
+    background-color: #66d4ec;
+}
+#quemsomos{
+    padding-bottom: 0;
+}
+.Projetos{
+    background: #1fe038;
+}
+.obj3{
+    color: rgb(179, 229, 248);
+}
+.obj2{
+    color: rgb(179, 229, 248);
+}
+.obj1{
+    color: rgb(179, 229, 248);
+}
+.bg-footer{
+    background-color: rgb(0, 0, 0);
+}
